@@ -18,8 +18,8 @@ class Solution {
 
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+
         ListNode* r = NULL;
-        // ListNode* t = NULL;
         ListNode* p = NULL;
         int carry = 0;
         int sum = 0;
@@ -28,16 +28,20 @@ public:
             sum = carry + (l1 ? l1->val : 0) + (l2 ? l2->val : 0);
             carry = sum / 10;
             ListNode* t = new ListNode(sum % 10);
+
             if (r == NULL) {
                 r = t;
             }
             else {
                 p->next = t;
             }
+
             p = t;
+
             if (l1) l1 = l1->next;
             if (l2) l2 = l2->next;
         }
+
         if (carry > 0) p->next = new ListNode(carry);
         
         return r;
@@ -45,6 +49,13 @@ public:
 };
 
 
+/**
+ * TEST FUNCTION
+ * @brief Create a List Node object from vector
+ * 
+ * @param a 
+ * @return ListNode* 
+ */
 ListNode* createListNode(vector<int> & a) {
     ListNode* r = NULL;
     ListNode* t = NULL;
@@ -63,6 +74,12 @@ ListNode* createListNode(vector<int> & a) {
     return r;
 }
 
+/**
+ * TEST FUNCTION
+ * @brief Print a List Node
+ * 
+ * @param a 
+ */
 void printListNode(ListNode * a) {
     ListNode* n = a;
     while (n != nullptr) {
@@ -75,6 +92,7 @@ void printListNode(ListNode * a) {
 
 int main(int argc, char** argv) {
     
+    // Test case
     vector<int> a{1,4,7};
     vector<int> b{1,7,4};
 
