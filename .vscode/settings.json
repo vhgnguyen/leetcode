@@ -3,6 +3,18 @@
     "fileheader.Author": "Vo Hoang Nguyen",
     "fileheader.LastModifiedBy": "Vo Hoang Nguyen",
     "files.associations": {
-        "vector": "cpp"
+        "vector": "cpp",
+        "xhash": "cpp",
+        "initializer_list": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "sstream": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "iosfwd": "cpp",
+        "xutility": "cpp"
     }
 }

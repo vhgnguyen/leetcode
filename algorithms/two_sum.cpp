@@ -2,7 +2,7 @@
  * @Author: Vo Hoang Nguyen 
  * @Date: 2020-12-05 22:56:28 
  * @Last Modified by: Vo Hoang Nguyen
- * @Last Modified time: 2020-12-05 23:20:01
+ * @Last Modified time: 2020-12-07 02:53:57
  */
 #include <algorithm>
 #include <iostream>
@@ -12,11 +12,13 @@
 
 using namespace std;
 
-/**
- * One hash map solution
- */
+
 class Solution{
 public:
+
+    /**
+     * One hash map solution
+     */
     vector<int> twoSum(vector<int> & nums, int target) {
         unordered_map<int, int> m;
         for (int i = 0; i < nums.size(); i++) {
