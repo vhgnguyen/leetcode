@@ -41,6 +41,7 @@ int main(int argc, char** argv) {
 
     cout << "nums.size(): ";
     cin >> size;
+    
     while (size <2) {
         cout << "nums.size() >= 2!" << endl;
         cout << "nums.size(): ";
@@ -70,5 +71,6 @@ int main(int argc, char** argv) {
     {
         cout << *it << " ";
     }
+    
     return 0;
 }

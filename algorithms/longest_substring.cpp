@@ -88,5 +88,4 @@ int main(int argc, char** argv) {
     cout << "Output: " << result << endl;
 
     return 0;
-
 }
