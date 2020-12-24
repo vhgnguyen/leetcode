@@ -10,4 +10,5 @@ LeetCode
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [C++](./algorithms/longest_substring.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./algorithms/median_two_sorted_arrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./algorithms/longest_palindromic_substring.cpp)|Medium|
+|6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./algorithms/zigzag_conversion.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
