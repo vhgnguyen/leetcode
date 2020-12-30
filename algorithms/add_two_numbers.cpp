@@ -97,7 +97,7 @@ void printListNode(ListNode * a) {
 }
 
 
-int main(int argc, char** argv) {
+int main(int argv, char** argc) {
     
     // Test case
     vector<int> a{1,4,7};

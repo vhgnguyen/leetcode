@@ -67,7 +67,7 @@ public:
 };
 
 
-int main(int argv, char ** argc) {
+int main(int argc, char ** argv) {
 
     string s = "PAYPALISHIRING";
     int numRows = 3;

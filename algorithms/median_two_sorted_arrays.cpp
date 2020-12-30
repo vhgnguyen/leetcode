@@ -69,7 +69,7 @@ public:
 };
 
 
-int main(int argv, char ** argc) {
+int main(int argc, char ** argv) {
 
     int size1, size2, input;
     double result;
