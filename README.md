@@ -13,4 +13,5 @@ LeetCode
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./algorithms/zigzag_conversion.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./algorithms/reverse_integer.cpp)|Easy|
 |8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./algorithms/string_to_integer.cpp)|Medium|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./algorithms/palindrome_number.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|

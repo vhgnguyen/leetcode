@@ -22,10 +22,10 @@ int atoi(string s) {
     while (i < s.length() && s[i] >= '0' && s[i] <= '9') {
         if (sum > INT_MAX / 10 || (sum == INT_MAX / 10 && s[i] - '0' > INT_MAX % 10))
             return sign == -1 ? INT_MIN : INT_MAX;
-        sum = 10 * sum + (int)(s[i++] - '0');
+        sum = sum * 10 + (int)(s[i++] - '0');
     }
 
-    return sign * sum;
+    return sum * sign;
 }
 
 
