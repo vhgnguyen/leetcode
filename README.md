@@ -16,4 +16,6 @@ LeetCode
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./algorithms/palindrome_number.cpp)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [C++](./algorithms/regular_expression_matching.cpp)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [C++](./algorithms/container_with_most_water.cpp)|Medium|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./algorithms/integer_to_roman.cpp)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./algorithms/roman_to_integer.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
