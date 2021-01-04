@@ -19,4 +19,5 @@ LeetCode
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./algorithms/integer_to_roman.cpp)|Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./algorithms/roman_to_integer.cpp)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./algorithms/longest_common_prefix.cpp)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/) | [C++](./algorithms/3sum.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
