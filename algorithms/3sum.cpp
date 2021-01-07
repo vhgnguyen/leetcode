@@ -67,9 +67,9 @@ void printThreeSum(vector<int> nums) {
 
 int main(int argc, char ** argv) {
 
-    printThreeSum(vector<int>{-1,0,1,2,-1,-4});
-    printThreeSum(vector<int>{});
-    printThreeSum(vector<int>{0});
+    printThreeSum(vector<int>{-1,0,1,2,-1,-4}); // Output: [[-1,-1,2],[-1,0,1]]
+    printThreeSum(vector<int>{}); // Output: []
+    printThreeSum(vector<int>{0}); // Output: []
 
     return 0;
 }

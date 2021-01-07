@@ -22,4 +22,5 @@ LeetCode
 |15|[3Sum](https://leetcode.com/problems/3sum/) | [C++](./algorithms/3sum.cpp)|Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./algorithms/3sum_closest.cpp)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [C++](./algorithms/letter_combinations_of_a_phone_number.cpp)|Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/) | [C++](./algorithms/4sum.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|

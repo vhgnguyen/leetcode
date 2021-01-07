@@ -4,6 +4,7 @@
 
 using namespace std;
 
+
 vector<string> letterCombinations(string digits) {
 
     if (digits.size() == 0)
@@ -43,8 +44,23 @@ void printLetterCombinations(string digits) {
 
 
 int main(int argc, char ** argv) {
+
+    /**
+     * Input: digits = "23"
+     * Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+     */
     printLetterCombinations("23");
+
+    /**
+     * Input: digits = ""
+     * Output: []
+     */
     printLetterCombinations("");
+
+    /**
+     * Input: digits = "2"
+     * Output: ["a","b","c"]
+     */
     printLetterCombinations("2");
     return 0;
 }

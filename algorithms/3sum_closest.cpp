@@ -2,8 +2,8 @@
 #include <vector>
 #include <algorithm>
 
-
 using namespace std;
+
 
 int threeSumClosest(vector<int>& nums, int target) {
 
@@ -53,6 +53,10 @@ void printThreeSumClosest(vector<int> nums, int target) {
 
 int main(int argc, char ** argv) {
 
+    /**
+     * Input: nums = [-1,2,1,-4], target = 1
+     * Output: 2
+     */
     printThreeSumClosest(vector<int>{-1,2,1,-4}, 1);
 
     return 0;

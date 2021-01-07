@@ -34,7 +34,7 @@ void printLongestCommonPrefix(vector<string> strs) {
 
 int main(int argc, char ** argv) {
 
-    printLongestCommonPrefix(vector<string> {"flower","flow","flight"});
-    printLongestCommonPrefix(vector<string> {"dog","racecar","car"});
+    printLongestCommonPrefix(vector<string> {"flower","flow","flight"}); // Output: "fl"
+    printLongestCommonPrefix(vector<string> {"dog","racecar","car"}); // Output: ""
     return 0;
 }
