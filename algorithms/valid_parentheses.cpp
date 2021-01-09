@@ -18,6 +18,7 @@ bool isValid(string s) {
                 else res.pop();
         }
     }
+    
     return res.size() == 0;
 }
 

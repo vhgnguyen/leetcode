@@ -25,4 +25,5 @@ LeetCode
 |18|[4Sum](https://leetcode.com/problems/4sum/) | [C++](./algorithms/4sum.cpp)|Medium|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C++](./algorithms/remove_nth_node_from_end_of_list.cpp)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [C++](./algorithms/valid_parentheses.cpp)|Medium|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./algorithms/merge_two_sorted_lists.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
