@@ -31,6 +31,7 @@ void printGenerateParenthesis(int n) {
 
 
 int main(int argc, char ** argv) {
+    
     printGenerateParenthesis(3);
     printGenerateParenthesis(1);
 
