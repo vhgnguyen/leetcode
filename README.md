@@ -28,4 +28,5 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./algorithms/merge_two_sorted_lists.cpp)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [C++](./algorithms/generate_parentheses.cpp)|Medium|
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./algorithms/merge_k_sorted_lists.cpp)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./algorithms/swap_nodes_in_pairs.cpp)|Hard|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
