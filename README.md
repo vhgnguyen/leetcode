@@ -30,4 +30,6 @@ LeetCode
 |23|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [C++](./algorithms/merge_k_sorted_lists.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [C++](./algorithms/swap_nodes_in_pairs.cpp)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./algorithms/reverse_nodes_in_k_group.cpp)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./algorithms/remove_duplicates_from_sorted_array.cpp)|Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/remove_element.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
