@@ -5,7 +5,9 @@
 
 using namespace std;
 
-
+/**
+ * Use 3sum approach for pointers on 4sum
+ */
 vector<vector<int>> fourSum(vector<int>& nums, int target) {
 
     int n = nums.size();

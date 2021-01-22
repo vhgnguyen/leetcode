@@ -5,6 +5,9 @@
 using namespace std;
 
 
+/**
+ * The length of vector doesn't matter since we only take the first i elements
+ */
 int removeElement(vector<int>& nums, int val) {
     int i = 0;
     for (auto & n : nums) {
