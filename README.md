@@ -33,5 +33,5 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./algorithms/remove_duplicates_from_sorted_array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/remove_element.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./algorithms/implement_strStr.cpp)|Easy|
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./algorithms/divide_two_integers.cpp)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./algorithms/divide_two_integers.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
