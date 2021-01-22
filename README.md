@@ -32,4 +32,5 @@ LeetCode
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [C++](./algorithms/reverse_nodes_in_k_group.cpp)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./algorithms/remove_duplicates_from_sorted_array.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/remove_element.cpp)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./algorithms/implement_strStr.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
