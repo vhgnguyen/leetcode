@@ -34,4 +34,5 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./algorithms/remove_element.cpp)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./algorithms/implement_strStr.cpp)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./algorithms/divide_two_integers.cpp)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./algorithms/substring_with_concatenation_of_all_words.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
