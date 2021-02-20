@@ -40,4 +40,6 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [C++](./algorithms/maximum_subarray.cpp)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./algorithms/length_of_lastword.cpp)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](./algorithms/plus_one.cpp)|Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./algorithms/add_binary.cpp)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/add_binary.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
