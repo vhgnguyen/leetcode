@@ -36,4 +36,5 @@ LeetCode
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [C++](./algorithms/divide_two_integers.cpp)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | [C++](./algorithms/substring_with_concatenation_of_all_words.cpp)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [C++](./algorithms/next_permutation.cpp)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./algorithms/search_insert_position.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
