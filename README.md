@@ -41,5 +41,17 @@ LeetCode
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./algorithms/length_of_lastword.cpp)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [C++](./algorithms/plus_one.cpp)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./algorithms/add_binary.cpp)|Easy|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/add_binary.cpp)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [C++](./algorithms/climbing_stairs.cpp)|Easy|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [C++](./algorithms/remove_duplicates_from_sorted_list.cpp)|Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [C++](./algorithms/merge_sorted_array.cpp)|Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./algorithms/same_tree.cpp)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](./algorithms/symmetric_tree.cpp)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](./algorithms/maximum_depth_of_binary_tree.cpp)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [C++](./algorithms/convert_sorted_array_to_binary_search_tree.cpp)|Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [C++](./algorithms/balanced_binary_tree.cpp)|Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [C++](./algorithms/minimum_depth_of_binary_tree.cpp)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/) | [C++](./algorithms/path_sum.cpp)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./algorithms/pascals_triangle.cpp)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](./algorithms/pascals_triangle_ii.cpp)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/best_time_to_buy_and_sell_stock.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
