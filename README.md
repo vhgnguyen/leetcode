@@ -54,4 +54,12 @@ LeetCode
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [C++](./algorithms/pascals_triangle.cpp)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [C++](./algorithms/pascals_triangle_ii.cpp)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [C++](./algorithms/best_time_to_buy_and_sell_stock.cpp)|Easy|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [C++](./algorithms/best_time_to_buy_and_sell_stock_ii.cpp)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./algorithms/valid_palindrome.cpp)|Easy|
+|136|[Single Number](https://leetcode.com/problems/single-number/) | [C++](./algorithms/single_number.cpp)|Easy|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [C++](./algorithms/linked_list_cycle.cpp)|Easy|
+|141|[Min Stack](https://leetcode.com/problems/min-stack/) | [C++](./algorithms/min_stack.cpp)|Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./algorithms/intersection_of_two_linked_lists.cpp)|Easy|
+|167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/two_sum_ii.cpp)|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/excel_sheet_column_title.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|

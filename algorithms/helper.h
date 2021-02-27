@@ -122,7 +122,7 @@ namespace Node {
             while (nodeCount > 0) 
             {  
                 TreeNode *node = q.front(); 
-                if (node->val != NULL)
+                if (node->val != 0)
                     s += to_string(node->val) + ",";  
                 else
                     s += "null,";
@@ -163,6 +163,10 @@ namespace helper {
             }
         }
         return s + "]";
+    }
+
+    string bool2str(bool b) {
+        return b ? "true" : "false";
     }
 
     string printString(const string & s) {
