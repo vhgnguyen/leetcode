@@ -62,4 +62,7 @@ LeetCode
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [C++](./algorithms/intersection_of_two_linked_lists.cpp)|Easy|
 |167|[Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [C++](./algorithms/two_sum_ii.cpp)|Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [C++](./algorithms/excel_sheet_column_title.cpp)|Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./algorithms/majority_element.cpp)|Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [C++](./algorithms/excel_sheet_column_number.cpp)|Easy|
+|172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./algorithms/factorial_trailing_zeroes.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
