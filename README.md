@@ -67,4 +67,5 @@ LeetCode
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [C++](./algorithms/factorial_trailing_zeroes.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./algorithms/reverse_bits.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/number_of_1_bits.cpp)|Easy|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/happy_number.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
