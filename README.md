@@ -68,4 +68,6 @@ LeetCode
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [C++](./algorithms/reverse_bits.cpp)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [C++](./algorithms/number_of_1_bits.cpp)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/happy_number.cpp)|Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./algorithms/remove_linked_list_elements.cpp)|Easy|
+|204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./algorithms/count_primes.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
