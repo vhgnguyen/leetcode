@@ -73,5 +73,6 @@ LeetCode
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./algorithms/isomorphic_strings.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/reverse_linked_list.cpp)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/contains_duplicate.cpp)|Easy|
-|217|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./algorithms/contains_duplicate_ii.cpp)|Easy|
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./algorithms/contains_duplicate_ii.cpp)|Easy|
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./algorithms/contains_duplicate_iii.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
