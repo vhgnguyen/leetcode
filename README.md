@@ -72,4 +72,5 @@ LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./algorithms/count_primes.cpp)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./algorithms/isomorphic_strings.cpp)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./algorithms/reverse_linked_list.cpp)|Easy|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/contains_duplicate.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
