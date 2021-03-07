@@ -70,4 +70,5 @@ LeetCode
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./algorithms/happy_number.cpp)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [C++](./algorithms/remove_linked_list_elements.cpp)|Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/) | [C++](./algorithms/count_primes.cpp)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [C++](./algorithms/isomorphic_strings.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
