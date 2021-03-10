@@ -75,4 +75,6 @@ LeetCode
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [C++](./algorithms/contains_duplicate.cpp)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [C++](./algorithms/contains_duplicate_ii.cpp)|Easy|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [C++](./algorithms/contains_duplicate_iii.cpp)|Medium|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./algorithms/implement_stack_using_queues.cpp)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/invert_binary_tree.cpp)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
