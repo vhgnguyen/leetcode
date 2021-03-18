@@ -154,6 +154,17 @@ namespace helper {
         return s + "]";
     }
 
+    string v2s(const vector<string> & v) {
+        string s = "[";
+        for (int i = 0; i < v.size(); ++i) {
+            s += "\"" + v[i] + "\"";
+            if (i != v.size() - 1) {
+                s += ",";
+            }
+        }
+        return s + "]";
+    }
+
     string printVectorVector(const vector<vector<int>> & v) {
         string s = "[";
         for (int i = 0; i < v.size(); ++i) {
