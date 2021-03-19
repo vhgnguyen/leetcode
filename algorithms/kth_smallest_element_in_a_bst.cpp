@@ -7,7 +7,7 @@ using namespace Node;
 void find(TreeNode* root, int& k, vector<int> & klist) {
     if (root->left) find(root->left, k, klist);
 
-    // disable this IF condition when using this repo
+    // disable this IF condition if not using this repo
     // because of the implementation of binary tree node in helper
     if (root->val) 
         klist.push_back(root->val);
