@@ -78,4 +78,6 @@ LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [C++](./algorithms/implement_stack_using_queues.cpp)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](./algorithms/invert_binary_tree.cpp)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [C++](./algorithms/summary_ranges.cpp)|Easy|
+|229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [C++](./algorithms/majority_element_ii.cpp)|Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [C++](./algorithms/kth_smallest_element_in_a_bst.cpp)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [C++](./algorithms/bulls_and_cows.cpp)|Medium|
